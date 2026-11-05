@@ -28,6 +28,12 @@ Agent-driven email triage, cleanup, drafting and search over IMAP, run from Clau
 **[gnome-battery-charging-ext](https://github.com/StanleyGoldman/gnome-battery-charging-ext)**<br>
 A GNOME Shell extension that switches between Maximize Charge and Preserve Battery Health from Quick Settings.
 
+**[drone-ci-mcp-server](https://github.com/StanleyGoldman/drone-ci-mcp-server)**<br>
+An MCP server that exposes a Drone CI instance as tools for Claude: check build status, read step logs, trigger and cancel builds.
+
+**[lr-edit-time-collection-dumper](https://github.com/StanleyGoldman/lr-edit-time-collection-dumper)**<br>
+A Lightroom Classic plugin that keeps collections of recently edited photos.
+
 ## 🧰 Tinkering with
 
 Rust · TypeScript · Python · Claude Code
