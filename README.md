@@ -28,7 +28,7 @@ Agent-driven email triage, cleanup, drafting and search over IMAP, run from Clau
 
 ## 🧰 Tinkering with
 
-Rust · TypeScript · Python · Kotlin · Shell · Claude Code
+Rust · TypeScript · Python · Claude Code
 
 ## 📫 Let's connect
 
