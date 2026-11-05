@@ -4,17 +4,6 @@
 
 Eight years at GitHub: the compute behind hosted runners for GitHub Actions, and before that the open source tools that brought GitHub into Visual Studio and Unity. Now looking for a senior role, fully remote in the US.
 
-## 🏗 From my time at GitHub
-
-**[GitHub for Visual Studio](https://github.com/github/VisualStudio)**<br>
-The only pre-installed Visual Studio extension Microsoft didn't build itself: 2.8M downloads, the 3rd most downloaded extension in the marketplace.
-
-**[octokit.graphql.net](https://github.com/octokit/octokit.graphql.net)**<br>
-A C# library that uses .NET expression trees to turn LINQ queries into GraphQL. It became GitHub's official client library.
-
-**[GitHub for Unity](https://github.com/github-for-unity/Unity)**<br>
-Sole engineer and product owner, from proof of concept through beta.
-
 ## 🛠 Building in the open, right now
 
 **[balanced](https://github.com/StanleyGoldman/balanced)**<br>
@@ -37,6 +26,17 @@ A Lightroom Classic plugin that keeps collections of recently edited photos.
 ## 🧰 Tinkering with
 
 Rust · TypeScript · Python · Claude Code
+
+## 🏗 From my time at GitHub
+
+**[GitHub for Visual Studio](https://github.com/github/VisualStudio)**<br>
+The only pre-installed Visual Studio extension Microsoft didn't build itself: 2.8M downloads, the 3rd most downloaded extension in the marketplace.
+
+**[octokit.graphql.net](https://github.com/octokit/octokit.graphql.net)**<br>
+A C# library that uses .NET expression trees to turn LINQ queries into GraphQL. It became GitHub's official client library.
+
+**[GitHub for Unity](https://github.com/github-for-unity/Unity)**<br>
+Sole engineer and product owner, from proof of concept through beta.
 
 ## 📫 Let's connect
 
