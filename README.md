@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** · developer tools and platform infrastructure · .NET, TypeScript, Python
 
-Six years at GitHub: the compute behind hosted runners for GitHub Actions, and before that the open source tools that brought GitHub into Visual Studio and Unity. Now looking for a senior role, fully remote in the US.
+Eight years at GitHub: the compute behind hosted runners for GitHub Actions, and before that the open source tools that brought GitHub into Visual Studio and Unity. Now looking for a senior role, fully remote in the US.
 
 ## 🏗 From my time at GitHub
 
