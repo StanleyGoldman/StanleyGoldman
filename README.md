@@ -1,4 +1,4 @@
-# [Stanley Goldman](https://www.stanprogram.com)
+# [Stanley Goldman](https://stanprogram.com)
 
 **Senior Software Engineer** · developer tools and platform infrastructure · .NET, TypeScript, Python
 
