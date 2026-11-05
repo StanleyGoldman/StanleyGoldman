@@ -20,11 +20,13 @@ Sole engineer and product owner, from proof of concept through beta.
 **[balanced](https://github.com/StanleyGoldman/balanced)**<br>
 A desktop personal-finance app in the tradition of Quicken classic, written in Rust on egui.
 
-**[gnome-battery-charging-ext](https://github.com/StanleyGoldman/gnome-battery-charging-ext)**<br>
-A GNOME Shell extension that switches between Maximize Charge and Preserve Battery Health from Quick Settings.
-
 **[email-ops](https://github.com/StanleyGoldman/email-ops)**<br>
 Agent-driven email triage, cleanup, drafting and search over IMAP, run from Claude Code.
+
+## 🔧 Built to make my life better
+
+**[gnome-battery-charging-ext](https://github.com/StanleyGoldman/gnome-battery-charging-ext)**<br>
+A GNOME Shell extension that switches between Maximize Charge and Preserve Battery Health from Quick Settings.
 
 ## 🧰 Tinkering with
 
