@@ -7,16 +7,13 @@ Six years at GitHub: the compute behind hosted runners for GitHub Actions, and b
 ## 🏗 From my time at GitHub
 
 **[GitHub for Visual Studio](https://github.com/github/VisualStudio)**<br>
-Led it. The only pre-installed Visual Studio extension Microsoft didn't build itself: 2.8M downloads, the 3rd most downloaded extension in the marketplace.
+The only pre-installed Visual Studio extension Microsoft didn't build itself: 2.8M downloads, the 3rd most downloaded extension in the marketplace.
 
 **[octokit.graphql.net](https://github.com/octokit/octokit.graphql.net)**<br>
 A C# library that uses .NET expression trees to turn LINQ queries into GraphQL. It became GitHub's official client library.
 
 **[GitHub for Unity](https://github.com/github-for-unity/Unity)**<br>
 Sole engineer and product owner, from proof of concept through beta.
-
-**GitHub Actions hosted runners**<br>
-Moved our services from Azure VM scale sets to Azure Kubernetes Service, and built region-based job routing that brought wait times under 10 seconds.
 
 ## 🛠 Building in the open, right now
 
