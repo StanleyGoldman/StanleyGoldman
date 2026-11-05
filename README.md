@@ -32,7 +32,7 @@ Rust · TypeScript · Python · Claude Code
 **[GitHub for Visual Studio](https://github.com/github/VisualStudio)**<br>
 The only pre-installed Visual Studio extension Microsoft didn't build itself: 2.8M downloads, the 3rd most downloaded extension in the marketplace.
 
-**[octokit.graphql.net](https://github.com/octokit/octokit.graphql.net)**<br>
+**[Octokit.GraphQL.NET](https://github.com/octokit/octokit.graphql.net)**<br>
 A C# library that uses .NET expression trees to turn LINQ queries into GraphQL. It became GitHub's official client library.
 
 **[GitHub for Unity](https://github.com/github-for-unity/Unity)**<br>
