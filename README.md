@@ -2,7 +2,30 @@
 
 **Senior Software Engineer** · developer tools and platform infrastructure · .NET, TypeScript, Python
 
-Six years at GitHub: the compute behind hosted runners for GitHub Actions, and before that the open source tools that brought GitHub into Visual Studio and Unity. Now looking for a senior role, fully remote in the US.
+Eight years at GitHub: the compute behind hosted runners for GitHub Actions, and before that the open source tools that brought GitHub into Visual Studio and Unity. Now looking for a senior role, fully remote in the US.
+
+## 🛠 Building in the open, right now
+
+**[balanced](https://github.com/StanleyGoldman/balanced)**<br>
+A desktop personal-finance app in the tradition of Quicken classic, written in Rust on egui.
+
+**[email-ops](https://github.com/StanleyGoldman/email-ops)**<br>
+Agent-driven email triage, cleanup, drafting and search over IMAP, run from Claude Code.
+
+## 🔧 Built to make my life better
+
+**[gnome-battery-charging-ext](https://github.com/StanleyGoldman/gnome-battery-charging-ext)**<br>
+A GNOME Shell extension that switches between Maximize Charge and Preserve Battery Health from Quick Settings.
+
+**[drone-ci-mcp-server](https://github.com/StanleyGoldman/drone-ci-mcp-server)**<br>
+An MCP server that exposes a Drone CI instance as tools for Claude: check build status, read step logs, trigger and cancel builds.
+
+**[lr-edit-time-collection-dumper](https://github.com/StanleyGoldman/lr-edit-time-collection-dumper)**<br>
+A Lightroom Classic plugin that keeps collections of recently edited photos.
+
+## 🧰 Tinkering with
+
+Rust · TypeScript · Python · Claude Code
 
 ## 🏗 From my time at GitHub
 
@@ -14,21 +37,6 @@ A C# library that uses .NET expression trees to turn LINQ queries into GraphQL. 
 
 **[GitHub for Unity](https://github.com/github-for-unity/Unity)**<br>
 Sole engineer and product owner, from proof of concept through beta.
-
-## 🛠 Building in the open, right now
-
-**[balanced](https://github.com/StanleyGoldman/balanced)**<br>
-A desktop personal-finance app in the tradition of Quicken classic, written in Rust on egui.
-
-**[gnome-battery-charging-ext](https://github.com/StanleyGoldman/gnome-battery-charging-ext)**<br>
-A GNOME Shell extension that switches between Maximize Charge and Preserve Battery Health from Quick Settings.
-
-**[email-ops](https://github.com/StanleyGoldman/email-ops)**<br>
-Agent-driven email triage, cleanup, drafting and search over IMAP, run from Claude Code.
-
-## 🧰 Tinkering with
-
-Rust · TypeScript · Python · Claude Code
 
 ## 📫 Let's connect
 
