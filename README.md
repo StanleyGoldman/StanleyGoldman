@@ -23,6 +23,9 @@ An MCP server that exposes a Drone CI instance as tools for Claude: check build 
 **[lr-edit-time-collection-dumper](https://github.com/StanleyGoldman/lr-edit-time-collection-dumper)**<br>
 A Lightroom Classic plugin that keeps collections of recently edited photos.
 
+**[immich-folder-organizer](https://github.com/StanleyGoldman/immich-folder-organizer)**<br>
+Keeps Immich photo albums in sync with a YAML file listing each album and the folders that feed it. Runs as a scheduled container.
+
 ## 🧰 Tinkering with
 
 Rust · TypeScript · Python · Claude Code
