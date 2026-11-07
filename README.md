@@ -15,7 +15,7 @@ Agent-driven email triage, cleanup, drafting and search over IMAP, run from Clau
 ## 🔧 Built to make my life better
 
 **[gnome-battery-charging-ext](https://github.com/StanleyGoldman/gnome-battery-charging-ext)**<br>
-A GNOME Shell extension that switches between Maximize Charge and Preserve Battery Health from Quick Settings.
+A GNOME Shell extension that switches between Maximize Charge and Preserve Battery Health from Quick Settings, and can remind you or switch for you once the battery is full.
 
 **[drone-ci-mcp-server](https://github.com/StanleyGoldman/drone-ci-mcp-server)**<br>
 An MCP server that exposes a Drone CI instance as tools for Claude: check build status, read step logs, trigger and cancel builds.
